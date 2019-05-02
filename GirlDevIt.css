@@ -1,0 +1,30 @@
+/*
+/* Sarah Williams
+* May 7, 2019 
+* Girl Develop It
+*/
+
+/* The universal selector */
+
+/* Body properties here */
+
+body {
+    font-family: sans-serif; /* font of the rest of the page */
+}
+body {
+    width: 66%;/* size of the web page so it mtches the other */
+}
+body {
+    background-color: pink;/* color or the background */
+}
+h2 {
+    font-family: cursive;/* font of the headers */
+}
+figure {
+    float: right;/* moves images to the right side of the web page */
+}
+header {
+    background-color: orangered;/* closest color to the logo */
+}
+
+
